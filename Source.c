@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main(){
 	int x,y;
+
 	printf("<!DOCTYPE html1>\n");
 	printf("<mata charset=\"UTF-8\">\n");
 	printf("<title>99</title>\n");
